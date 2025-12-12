@@ -22,7 +22,8 @@
 ## 🛠️ Technologies I know (kinda)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,kotlin,js,py,matlab,postgres,r,vue,electron" />
+    <img src="https://skillicons.dev/icons?i=git,docker,androidstudio,kotlin,js,react,py,matlab,postgres,r,vue,electron&perline=6" />
+    
   </a>
 </p>
 
