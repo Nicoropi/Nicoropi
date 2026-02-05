@@ -31,4 +31,4 @@
 
 Trying to maintain the balance between `It doesn't work...! Why?` vs `It works...! Why?`.
 
-"just living life... barely"
+"I don't want to do anything, I just want to know it all"
